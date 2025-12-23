@@ -48,5 +48,5 @@ This project focuses on analyzing user engagement data from Social Buzz, a rapid
 
 ## Usage Instructions
 
-The analysis and insights provided in this project can be used to guide content strategy, marketing initiatives, and platform enhancements for Social Buzz. The strategic recommendations are designed to be actionable and aligned with the platform's growth objectives.
+Project(simulation) analysis and insights provided in this project can be used to guide content strategy, marketing initiatives, and platform enhancements for Social Buzz. The strategic recommendations are designed to be actionable and aligned with the platform's growth objectives.
 
